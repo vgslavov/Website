@@ -55,7 +55,8 @@ h3, h4 ,h5 ,h6{
 	padding: 30px 0 0 110px;
 	color: #e3e3e3;
 	font-size: 18px;
-	font-family: 'Oswald', sans-serif !important;
+	/* font-family: 'Oswald', sans-serif !important; */
+	font-family: 'Montserrat', sans-serif !important;
 	background: url(images/vasil-slavov-photo.png) 0 0 no-repeat;
 	}
 	
@@ -66,6 +67,14 @@ h3, h4 ,h5 ,h6{
 	}
 
 #resume{
+	position: absolute;
+	margin: 43px 0 0 660px;
+	width: 90px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal !important;
+	}
+
+#scholar{
 	position: absolute;
 	margin: 43px 0 0 760px;
 	width: 90px;
@@ -141,6 +150,21 @@ h3, h4 ,h5 ,h6{
 	border-bottom: 2px solid #bebcba;
 	}
 	
+#scholar a{
+	color: #3e383a;
+	text-decoration: none;
+	}
+	
+#scholar a:visited{
+	color: #3e383a;
+	text-decoration: none;
+	}
+	
+#scholar a:hover{
+	color: #900;
+	text-decoration: none;
+	}
+
 #resume a{
 	color: #3e383a;
 	text-decoration: none;
