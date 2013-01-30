@@ -1,1 +1,1 @@
-My personal Ph.D. website at UMKC.
+My personal Ph.D. website at UMKC
